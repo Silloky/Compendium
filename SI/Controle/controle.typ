@@ -6,9 +6,9 @@
 
 #include "laplace.typ"
 
-== Analyse des SLCI
+== Fonctions de transfert
 
-#include "analyse_slci.typ"
+#include "fx_de_transfert.typ"
 
 == Prévision des performances
 

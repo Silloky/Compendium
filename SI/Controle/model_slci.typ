@@ -14,7 +14,7 @@ On déduit de la linéarité les principes de superposition et de proportionnali
 
 #warning("")[Ne pas confondre la caractéristique d'un système $s = f(e)$ avec la courbe de réponse en fonction du temps $s(t)$.]
 
-=== Équations différentielles d'ordre 1
+=== Équations différentielles d'ordre 1 <SLCI-ED-1>
 
 #theoreme("SLCI d'ordre 1")[
   Un SLCI d'ordre 1 est caractérisé par une équation différentielle de la forme :
@@ -51,7 +51,7 @@ On déduit de la linéarité les principes de superposition et de proportionnali
 
 La pente de la tangente à l'origin est non-nulle et vaut $(K e_0) / tau$.
 
-=== Équations différentielles d'ordre 2
+=== Équations différentielles d'ordre 2 <SLCI-ED-2>
 
 #theoreme("SLCI d'ordre 2")[
   Un SLCI d'ordre 2 est caractérisé par une équation différentielle de la forme :

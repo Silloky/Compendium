@@ -2,6 +2,8 @@
 #import "@preview/biceps:0.0.1": *
 #import "@preview/lucide:0.1.0": *
 
+#show link: underline
+
 
 #let important(label, col, body) = block(
   width: 100%,

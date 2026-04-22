@@ -33,6 +33,8 @@
   )
 ]
 
+=== Propriétés générales
+
 #propriete("")[
   1. Bi-univocité :
   $ cal(L){cal(L)^(-1){F(p)}} &= F(p) \  cal(L)^(-1){cal(L){f(t)}} &= f(t) $
@@ -88,6 +90,8 @@
   cal(L){ int_0^t f(tau) dif tau} &= frac(F(p), p) $
 ]
 
+=== Théorèmes
+
 #theoreme("de la valeur initiale")[
   $ lim_(t -> 0)f(t) = lim_(p -> oo) p F(p) $
 ]
@@ -111,6 +115,16 @@ $ lim_(p -> oo) p F(p) = f(0^-) + lim_(p -> oo) underbrace(int_0^oo der(f(t), t)
   D'où le résultat.
 ]
 
+#theoreme("du retard")[
+  Soit $f$ une fonction du temps et $tau > 0$. On suppose $f$ nulle dans les temps négatifs.
+  Alors :
+  $ cal(L){f(t - tau)} = e^(-p tau) cal(L){f(t)} $
+]
 
-
-#theoreme("du retard")[coucou]
+#preuve()[
+  Par changement de variable $sigma = t - tau$, on trouve :
+  $ cal(L){f(t - tau)} &= int_(- sigma)^oo f(sigma) e^(-p (sigma + tau)) dif sigma  \ 
+  &= e^(-p tau) int_(- tau)^oo f(sigma) e^(-p sigma) dif sigma  \ 
+  &= e^(-p tau) int_(0^-)^oo f(sigma) e^(-p sigma) dif sigma  \
+  cal(L){f(t - tau)} &= e^(-p tau) cal(L){f(t)} $
+]

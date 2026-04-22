@@ -9,3 +9,10 @@
   }
 }
 #let int = math.limits(math.integral)
+
+#let si = (
+  ftbf: $ F T B F (p)$,
+  ftcd: $ F T C D (p)$,
+  ftcr: $ F T C R (p)$,
+  ftbo: $ F T B O (p)$
+)
