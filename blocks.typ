@@ -54,6 +54,15 @@
   ]
 }
 
+#let lemme(label, body) = {
+  label = "Lemme" + if label != "" {
+    " " + label
+  }
+  important(label, rgb("#800080"))[
+    #body
+  ]
+}
+
 #let exemple(label, body) = {
   label = "Exemple" + if label != "" {
     " : " + label
