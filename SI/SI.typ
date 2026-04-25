@@ -2,7 +2,7 @@
 
 #set text(
   font: "New Computer Modern",
-  size: 12pt,
+  size: 10pt,
   lang: "fr"
 )
 
@@ -10,6 +10,7 @@
   paper: "a5",
   margin: (x: 1cm, y: 1cm),
   header: align(right, text(8pt, style: "italic")[E. Kirkwood - Sciences de l'ingénieur MPSI]),
+  numbering: "-- 1 --"
 )
 
 #{

@@ -12,7 +12,7 @@
 
 On déduit de la linéarité les principes de superposition et de proportionnalité.
 
-#warning("")[Ne pas confondre la caractéristique d'un système $s = f(e)$ avec la courbe de réponse en fonction du temps $s(t)$.]
+#warning()[Ne pas confondre la caractéristique d'un système $s = f(e)$ avec la courbe de réponse en fonction du temps $s(t)$.]
 
 === Équations différentielles d'ordre 1 <SLCI-ED-1>
 

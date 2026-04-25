@@ -88,7 +88,7 @@
   ], left: 1em)
 }
 
-#let warning(label, body) = box(
+#let warning(body) = box(
   //stroke: 1pt + black,
   flexwrap(
     flex: (1fr, 10fr),
