@@ -75,6 +75,7 @@
 
 #show heading.where(level: 2): it => {
   set align(left)
+  pagebreak(weak: true)
   block(below: 2em, width: 100%)[
     #v(3em)
     #text(size: 2em, weight: "bold")[#it.body]
@@ -91,9 +92,11 @@
 // CONTENT
 
 #import "../blocks.typ": *
+#import "@preview/unify:0.8.0": *
 
 #let parts = (
   "Mécanique": "Mécanique/meca_phy.typ",
+  "Ondes": "Ondes/ondes.typ",
   "Annexes": "Annexes/annexes.typ"
 )
 
