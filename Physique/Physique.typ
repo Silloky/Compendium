@@ -2,7 +2,7 @@
 
 #set text(
   font: "New Computer Modern",
-  size: 12pt,
+  size: 10pt,
   lang: "fr"
 )
 
