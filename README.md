@@ -16,6 +16,6 @@ Le projet est réalisé à l'aide de Typst. Je cherchais un outil de typesetting
 
 Les PDF compilés se trouvent dans la branche `pdf`.
 Voici les liens directs pour un accès rapide :
-- [Physique](#blank)
-- [Chimie](#blank)
-- [SI](#blank)
+- [Physique](https://raw.githubusercontent.com/Silloky/Compendium/refs/heads/pdf/Physique_Elias_Kirkwood.pdf)
+- [Chimie](https://raw.githubusercontent.com/Silloky/Compendium/refs/heads/pdf/Chimie_Elias_Kirkwood.pdf)
+- [SI](https://raw.githubusercontent.com/Silloky/Compendium/refs/heads/pdf/SI_Elias_Kirkwood.pdf)
