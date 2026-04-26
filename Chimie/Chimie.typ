@@ -94,6 +94,13 @@
 
 #import "../blocks.typ": *
 #import "@preview/unify:0.8.0": *
+#import "@preview/fancy-units:0.1.1": *
+
+#fancy-units-configure(
+  per-mode: "power", 
+  uncertainty-mode: "conserve",
+  unit-separator: sym.dot
+)
 
 #let parts = (
   "Atomes et molécules": "AtomesMol/atom_mol.typ",
