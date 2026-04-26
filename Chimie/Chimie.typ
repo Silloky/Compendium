@@ -88,6 +88,7 @@
   ]
 }
 
+#show heading.where(level: 3): it => text(size: 1.2em)[#it]
 
 // CONTENT
 
