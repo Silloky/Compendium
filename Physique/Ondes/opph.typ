@@ -29,4 +29,4 @@
   &= -k(x - c t) + phi_0 \
   phi_p (x,t) &= 2 pi (t/T - x/lambda) + phi_0 \
   $
-)))
+))) <prop-ondulatoires>

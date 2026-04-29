@@ -27,3 +27,5 @@ On pose $s(M, t) = s_1 (M, t) + s_2 (M, t)$ et on note $S$ l'amplitude de l'onde
 #definition("")[On note $p(M) = phi(M)/(2 pi)$ l'*ordre d'interférence* au point $M$.]
 
 Dans le cas des fentes d'Young, on a $i = lambda/(2 sin theta)$ pour l'interfrange, où $theta$ est l'angle de déviation.
+
+// https://www.ipgp.fr/~grandin/Raphael_Grandin_personal_web_page/Teaching_files/2_ondes.pdf

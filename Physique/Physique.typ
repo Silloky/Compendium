@@ -84,19 +84,28 @@
     #text(fill: gray.darken(10%), size: 1.2em, weight: "regular")[
       CHAPITRE #counter(heading).display()
     ]
-    #v(1em)
+    #v(0em)
   ]
 }
+
+#show heading.where(level: 3): it => text(size: 1.2em)[#it]
 
 
 // CONTENT
 
 #import "../blocks.typ": *
-#import "@preview/unify:0.8.0": *
+#import "@preview/fancy-units:0.1.1": *
+
+#fancy-units-configure(
+  per-mode: "power", 
+  uncertainty-mode: "conserve",
+  unit-separator: sym.dot
+)
 
 #let parts = (
   "Mécanique": "Mécanique/meca_phy.typ",
   "Ondes": "Ondes/ondes.typ",
+  "Thermodynamique": "Thermodynamique/thermo.typ",
   "Annexes": "Annexes/annexes.typ"
 )
 
