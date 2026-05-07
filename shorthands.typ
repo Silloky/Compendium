@@ -27,5 +27,14 @@
 )
 
 #let ie = [_i.e._]
+#let ex = [_ex._]
+#let etc = [_etc._]
+#let proofEnd = [#v(-1em) #align(right)[$square$]]
 
 #let cm = math.underline
+#let avg = math.overline
+#let D = math.Delta
+#let intrg(a, b) = $bracket.stroked.l #a, #b bracket.stroked.r$
+#let mod(a) = [#h(0.2em) $[#a]$]
+#let cg = math.equiv
+#let gcd = math.and

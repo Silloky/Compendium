@@ -97,7 +97,7 @@
 #import "@preview/cetz:0.5.0"
 
 #let parts = (
-  "Théorie du contrôle": "Controle/controle.typ",
+  "Automatique": "Automatique/automatique.typ",
   "Mécanique": "Mécanique/meca_si.typ",
 )
 

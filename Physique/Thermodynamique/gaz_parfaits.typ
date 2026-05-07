@@ -29,7 +29,7 @@ On définit le volume molaire, le volume massique, la masse volumique, la densit
 
 Soit un gaz parfait contenu par une paroi et $vc(u_x)$ un vecteur normal (et orienté vers) à la paroi. On ne considère que les molécules dont le vecteur vitesse est colinéaire et de même sens à $vc(u_x)$.
 
-*Hypothèses simplificatrices*:
+*Hypothèses simplificatrices* :
 - Le gaz est macroscopiquement au repos et uniforme
 - La distribution des vecteurs est *isotrope* #ie chaque couple (direction, sens) a une fréquence d'$1\/6$.
 - Les vecteurs vitesses sont de même norme $v$
@@ -69,6 +69,7 @@ A température donnée, l'énergie interne est d'autant plus grande que l'atomic
 Pour un gaz parfait monoatomique, il n'y a que l'énergie cinétique de translation :
 $ U = sum_i 1/2 m_i v_i^2 = N avg(epsilon) = 3/2 N k_B T = 3/2 n R T $
 Si le gaz est biatomique, avec $#qty[300][K] <= T <= #qty[600][K]$, on a environ : $U approx 5/2 n R T$.
+
 // \ Sur un grand intervalle de température, on ne peut pas considérer $C_(V m)$ constant :
 // $ #D U = integral_(T_1)^(T_2) n C_(V m) dif T  $
 
@@ -86,3 +87,6 @@ Le coefficient $e^(- (m v^2)/(2k_B T))$ est appelé *facteur de Boltzmann*.
 
 Cette définition pour $A$ permet d'obtenir des courbes de distribution normale. 
 \ La vitesse où $N'(u)$ est maximale est la vitesse la plus probable, et elle est du même ordre de grandeur que la vitesse quadratique moyenne $v^*$.
+
+
+$arrow.$
