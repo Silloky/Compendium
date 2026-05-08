@@ -20,10 +20,10 @@
 #let int = math.limits(math.integral)
 
 #let si = (
-  ftbf: $ F T B F (p)$,
-  ftcd: $ F T C D (p)$,
-  ftcr: $ F T C R (p)$,
-  ftbo: $ F T B O (p)$
+  ftbf: $ F T B F$,
+  ftcd: $ F T C D$,
+  ftcr: $ F T C R$,
+  ftbo: $ F T B O$
 )
 
 #let ie = [_i.e._]
@@ -38,3 +38,4 @@
 #let mod(a) = [#h(0.2em) $[#a]$]
 #let cg = math.equiv
 #let gcd = math.and
+#let arlim(l) = math.attach(math.stretch(math.arrow), b: l)

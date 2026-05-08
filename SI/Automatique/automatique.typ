@@ -10,8 +10,12 @@
 
 #include "fx_de_transfert.typ"
 
-== Prévision des performances
+== Analyse temporelle
 
-#include "previsions_perf.typ"
+#include "analyse_temp.typ"
+
+== Analyse fréquentielle
+
+#include "analyse_freq.typ"
 
 == Systèmes à évènements discrets

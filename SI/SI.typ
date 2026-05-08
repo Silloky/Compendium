@@ -104,5 +104,5 @@
 #for (i, (part, file)) in parts.pairs().enumerate() {
   part_page(part, numbering("I", i+1))
   include file
-}
+} 
 

@@ -1,8 +1,6 @@
 #import "../../blocks.typ": *
 
-=== Analyse temporelle
-
-==== Stabilité
+=== Stabilité
 
 #propriete("")[
   Un système est stable (au sens EB-SB, "_entrée bornée-sortie bornée_") si sa fonction de transfert ne possède pas de pôle à partie réelle positive ou nulle, donc en particulier une classe nulle.
@@ -37,7 +35,7 @@ En général, les couples de pôles conjugués se trouvent dans un _gabarit_ de 
 - une borne droite à $-3/T_"max"$ : pour garantir une convergence rapide
 - $|Re(p_i)| > |Im(p_i)|$ : pour éviter trop d'oscillations
 
-==== Précision
+=== Précision
 
 // Il y a 3 types de précision : en _position_, en _vitesse_ et en _accélération_, chacune correspondant à un ordre de fonctions d'entrée.
 
@@ -73,7 +71,7 @@ Soit système asservi à retour unitaire. On note $H_"bo" (p)=si.ftbo$, $K_"bo"$
 // ))
 
 
-==== Sensibilité aux perturbations
+=== Sensibilité aux perturbations
 
 #propriete("")[
   Un système à retour unitaire est _insensible à une perturbation_ en échelon s'il existe au moins une intégration dans la chaîne directe, en amont de la perturbation.
@@ -93,6 +91,3 @@ Soit système asservi à retour unitaire. On note $H_"bo" (p)=si.ftbo$, $K_"bo"$
   - Si $alpha = 0$ et $beta >= 1$ : $s_oo = (G_0 F_0)/(H_0 G_0)$
   - Si $alpha >= 1$ : $s_oo = 0$
 ]
-
-
-=== Analyse fréquentielle
