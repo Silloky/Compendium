@@ -57,8 +57,7 @@ Sur les diagrammes :
   - $phi(omega) > -180°$ pour $G(omega) = 0$ dB
 
 On appelle :
-- *marge de phase* la grandeur $M_phi = 180 + arg(#si.ftbo (j omega_u))$ où $omega_u$ est la _pulsation gain unitaire_ pour laquelle $|#si.ftbo (j omega_u)| = 1$ ;
+- *marge de phase* la grandeur $M_phi = 180 + arg(#si.ftbo (j omega_u))$ où $omega_u$ est la _pulsation gain unitaire_ pour laquelle $|#si.ftbo (j omega_u)| = 1$ (#ie $G(omega_u)=0$);
 - *marge de gain* la grandeur $M_G = 0 -20 log_10(|#si.ftbo (j omega_g)|)$ où $omega_g$ est la _pulsation d'opposition de phase_ pour laquelle $arg(#si.ftbo (j omega_g)) = -180°$
 
 La marge de gain n'est pas définie au premier et deuxième ordres car la phase n'atteint jamais $-180°$. La marge de gain n'est définie que si $K_(b o) >= 1$.
-
