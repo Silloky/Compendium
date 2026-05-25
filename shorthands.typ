@@ -39,3 +39,6 @@
 #let cg = math.equiv
 #let gcd = math.and
 #let arlim(l) = math.attach(math.stretch(math.arrow), b: l)
+#let sim = math.tilde.op
+#let Id = [$op("Id")$]
+#let engd(c) = [$chevron.l #c chevron.r$]

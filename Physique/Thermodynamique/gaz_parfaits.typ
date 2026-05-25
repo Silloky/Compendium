@@ -87,6 +87,3 @@ Le coefficient $e^(- (m v^2)/(2k_B T))$ est appelé *facteur de Boltzmann*.
 
 Cette définition pour $A$ permet d'obtenir des courbes de distribution normale. 
 \ La vitesse où $N'(u)$ est maximale est la vitesse la plus probable, et elle est du même ordre de grandeur que la vitesse quadratique moyenne $v^*$.
-
-
-$arrow.$
