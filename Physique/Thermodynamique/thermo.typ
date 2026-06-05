@@ -10,6 +10,6 @@
 
 #include "premier_principe.typ"
 
-== Transformations
+== Deuxième principe
 
-#include "transformations_therm.typ"
+#include "deuxieme_principe.typ"

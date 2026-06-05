@@ -29,6 +29,7 @@
 #let ie = [_i.e._]
 #let ex = [_ex._]
 #let etc = [_etc._]
+#let ssi = [_ssi_]
 #let proofEnd = [#v(-1em) #align(right)[$square$]]
 
 #let cm = math.underline

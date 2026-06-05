@@ -49,6 +49,7 @@
   label = "Théorème" + if label != "" {
     " " + label
   }
+  //important(label, rgb("#000000"))[
   important(label, rgb("#800080"))[
     #body
   ]
