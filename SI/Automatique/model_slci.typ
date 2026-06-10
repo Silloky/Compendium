@@ -30,14 +30,14 @@ On déduit de la linéarité les principes de superposition et de proportionnali
   $ s(t) = K e_0 (1 - e^(-t/tau)) u(t) $
 ]
 
-#preuve()[
-  On résout l'équation différentielle en utilisant la méthode de variation de la constante.
-  \ La solution générale de l'équation homogène associée est $s_h (t) = A e^(-t/tau)$.
-  \ En cherchant une solution particulière de la forme $s_p (t) = B$, on trouve $B = K e_0$.
-  \ En appliquant les CI, on trouve que $A = -K e_0$.
-  Ainsi, la solution complète est :
-  $ s(t) = s_h(t) + s_p(t) = K e_0 (1 - e^(-t/tau)) u(t) $
-]
+// #preuve()[
+//   On résout l'équation différentielle en utilisant la méthode de variation de la constante.
+//   \ La solution générale de l'équation homogène associée est $s_h (t) = A e^(-t/tau)$.
+//   \ En cherchant une solution particulière de la forme $s_p (t) = B$, on trouve $B = K e_0$.
+//   \ En appliquant les CI, on trouve que $A = -K e_0$.
+//   Ainsi, la solution complète est :
+//   $ s(t) = s_h(t) + s_p(t) = K e_0 (1 - e^(-t/tau)) u(t) $
+// ]
 
 *Valeurs remarquables de la réponse à un échelon :*
 
@@ -108,28 +108,28 @@ Pour l'identification de $xi$, on a alors : $xi = (1+ (k^2 pi^2)/(ln^2 (D_k^%)))
   - Plus $xi$ est proche de $0.69$, plus la réponse est rapide. Le premier dépassement est alors d'environ $5%$.
 ]
 
-=== Schéma-bloc acausal
+// === Schéma-bloc acausal
 
-Le schéma-bloc standard d'un servomécanisme motorisé est :
+// Le schéma-bloc standard d'un servomécanisme motorisé est :
 
-#figure(
-  caption: "Asservissement de vitesse",
-  kind: "schema-bloc",
-  supplement: "Schéma-Bloc"
-)[
-  #cetz.canvas({
-    import cetz.draw: *
+// #figure(
+//   caption: "Asservissement de vitesse",
+//   kind: "schema-bloc",
+//   supplement: "Schéma-Bloc"
+// )[
+//   #cetz.canvas({
+//     import cetz.draw: *
 
-    content((0,0), box(stroke: 0.5pt, inset: 5pt)[Adaptateur], name: "Adaptateur")
+//     content((0,0), box(stroke: 0.5pt, inset: 5pt)[Adaptateur], name: "Adaptateur")
     
-    circle((2.5, 0), radius: 0.5, stroke: 0.5pt, fill: white, name: "Comparateur")
-    line((2.1, 0.3), (2.9, -0.3), stroke: 0.5pt)
-    line((2.9, 0.3), (2.1, -0.3), stroke: 0.5pt)
-    content((2.5,-0.25), [#sym.minus])
-    content((2.2, 0), [#sym.plus])
+//     circle((2.5, 0), radius: 0.5, stroke: 0.5pt, fill: white, name: "Comparateur")
+//     line((2.1, 0.3), (2.9, -0.3), stroke: 0.5pt)
+//     line((2.9, 0.3), (2.1, -0.3), stroke: 0.5pt)
+//     content((2.5,-0.25), [#sym.minus])
+//     content((2.2, 0), [#sym.plus])
 
-    line("Adaptateur.east", "Comparateur.west", stroke: 0.5pt, mark: (end: ")>"))
-    content((1.55, 0.3), [$u_c$])
+//     line("Adaptateur.east", "Comparateur.west", stroke: 0.5pt, mark: (end: ")>"))
+//     content((1.55, 0.3), [$u_c$])
 
-  })
-]
+//   })
+// ]

@@ -19,3 +19,5 @@
 #include "analyse_freq.typ"
 
 == Systèmes à évènements discrets
+
+#include "evn_discrets.typ"
