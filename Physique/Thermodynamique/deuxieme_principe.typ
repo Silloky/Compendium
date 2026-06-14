@@ -15,7 +15,7 @@ Donc l'entropie dépend de l'énergie interne et du volume, c'est donc une fonct
 ]
 
 Une transformation est *réversible* #ssi on peut revenir à l'état initial en suivant le même chemin (#ie en passant par les mêmes états intermédiaires).
-$ "Quasi-statique" #stack(dir: ttb, math.arrow.double.long.r, math.cancel[#math.arrow.double.long.l]) "Réversible" $
+$ "Réversible" #stack(dir: ttb, math.arrow.double.long.r, math.cancel[#math.arrow.double.long.l]) "Quasi-statique" $
 
 Une transformation est *isentropique* #ssi elle est AQS.
 
@@ -77,6 +77,6 @@ Pour que l'échange soit réversible, les températures des deux systèmes doive
       Monotherme#v(0.5mm)$display(dif S = (delta Q)/T_"ext" + underbrace(delta S_C, >= 0))$
     ]),
   align(center, [
-      Polytherme#v(0.5mm)$display(dif S = sum_i (delta Q_i)/T_("ext,"i) + delta S_C)$
+      Polytherme#v(0.5mm)$display(dif S = sum_i (delta Q_i)/T_("ext,"i) + underbrace(delta S_C, >= 0))$
     ])
 )

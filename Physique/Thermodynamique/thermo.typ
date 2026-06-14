@@ -13,3 +13,7 @@
 == Deuxième principe
 
 #include "deuxieme_principe.typ"
+
+== Machines thermiques
+
+#include "machines_thermiques.typ"
