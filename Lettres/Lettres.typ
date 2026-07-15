@@ -14,28 +14,28 @@
 
 #{
   set page(header: "")
-  set align(center)
-  v(3cm)
+
+  set align(center + horizon)
+  text(7em, weight: "bold")[Arcanes de la création]
+  v(-1cm)
+  text(2em, style: "italic", fill: gray.darken(20%))[Cours, fiches & citations]
+  line(length: 60%, stroke: 0.5pt)
   
-  text(6em, weight: "bold")[Arcanes de la création]
-  
-  v(1em)
-  text(1.5em, style: "italic", fill: gray.darken(20%))[Cours, fiches & citations]
-  
-  line(length: 40%, stroke: 0.5pt)
-  
-  v(1em)
-  text(1.2em)[PSI — Collège Stanislas]
-  
-  v(5cm)
-  
-  text(1.1em)[*Elias Kirkwood*]
+  set align(center + bottom)
+  text(1.6em)[*Elias Kirkwood*]
   v(0.1em)
-  text(0.9em)[Année 2026 - 2027]
+  text(1.3em)[PSI — Collège Stanislas]
+  v(0.1em)
+  text(1.2em)[Année 2026 - 2027]
+  v(5em)
   
   pagebreak()
 }
 
+#let parts = (
+  "Platon/Platon.typ": [_Ion_ #v(-2.5cm)#text(size: 0.5em)[_La République_ (livre X)]],
+  "Zola/Zola.typ": [_L'Œuvre_],
+)
 
 
 // TITLE FORMATTING AND TOC
@@ -54,7 +54,13 @@
   below: 0.5em,
 )[
   #text(size: 1.4em)[
-    *Partie #counter("toctopheadings").display("I")* : #it.body()
+    *Partie #counter("toctopheadings").display("I")* : #{
+      if it.body() != parts.at("Platon/Platon.typ"){
+        it.body()
+      } else {
+        [_Ion_ & _La République_ (livre X, 595a-608b)]
+      }
+    }
   ]
   #counter("toctopheadings").step()
   #line(length: 100%)
@@ -107,18 +113,16 @@
   [
     #set text(6em, weight: "bold")
     #show heading: set block(above: 0em, below: 0em)
-    #heading(level: 1, numbering: none, outlined: true)[#title]
+    #heading(level: 1, numbering: none, outlined: true, title)
   ]
   
-  v(2.2em)
+  v(2cm)
   line(length: 20%, stroke: 1pt)
   
   pagebreak()
 }
 
-#let parts = (
-  "Platon": "Platon/Platon.typ"
-)
+#set par(justify: true)
 
 #import "formats.typ": *
 #show math.equation: it => {
@@ -127,11 +131,7 @@
   it
 }
 
-#for (i, (part, file)) in parts.pairs().enumerate() {
+#for (i, (file, part)) in parts.pairs().enumerate() {
   part_page(part, numbering("I", i+1))
   include file
 }
-
-
-
-

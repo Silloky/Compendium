@@ -30,13 +30,20 @@
 
 #let cbion(page, citation) = cb("Ion", "Platon", page, citation)
 #let cbrep(page, citation) = cb("La République", "Platon", page, citation)
+#let cboe(page, citation) = cb("L'Œuvre", "E. Zola", "p. "+str(page), citation)
 
 #let So = [Socrate]
 #let Pl = [Platon]
 #let G = [Glaucon]
+#let LO = [_L'Œuvre_]
+#let Sd = [Sandoz]
+#let Lt = [Lantier]
+#let Cl = [Claude]
+#let Z = [Zola]
 
 
 #let ie = [_ie._]
 #let e = [[...]]
+#let ê = super("e")
 
 #let cad = [c'est-à-dire]

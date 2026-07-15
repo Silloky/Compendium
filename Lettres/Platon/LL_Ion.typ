@@ -91,7 +91,7 @@ Sur la forme, #So utilise en 538e un artifice d'exposition : il fait parler Ion,
 
 Le philosophe piège alors Ion, qui insiste que tous les passages de l'_Odyssée_ appartiennent au domaine de l'art du rhapsode, alors même qu'il a convenu plus tôt que les domaines de science des arts sont mutuellement exclusifs. Son affirmation revient donc à nier l'existence de l'art du cocher, du médecin et du pêcheur, ou bien celle de l'art de la rhapsodie (puisque ces arts sont bien entendus différents).
 
-==== Un grand stratège refoulé ? (540d-541c)
+==== Un grand stratège refoulé (540d-541c)
 
 Après l'avoir prétentieusement affirmé, Ion avoue ne pas savoir davantage ce qu'il sied de dire qu'un #c(p: "540b")[pilote  [qui] commande un bateau battu par la tempête], qu'un médecin, qu'un esclave à #c(p: "540c")[esclaves quand elles deviennent farouches], ou qu'une #c(p: "540d")[femme #e au sujet du travail des laines].
 
