@@ -4,14 +4,14 @@
 
 Le projet de #LO est élaboré dès 1868 (soit dix-huit ans avant sa parution), quand #Z pense les fondations des _Rougon-Macquart_, envisagée comme une grande série de romans consacrés aux différents aspects de la société contemporaine -- économique, social, politique et culturel. \ Il distingue dans cette société quatre #c[mondes] : le peuple, les commerçants, la bourgeoisie et le grand monde, et, un monde à part dans lequel il range la prostituée, le meurtrier, le prêtre et l'artiste.
 
-A la parution de roman, Émile #Z a alors 46 ans et il s'est imposé comme l'un des écrivains les plus célèbres de son temps. Les années de misère sont loin derrière lui, tout comme l'insccès de ses premiers romans -- même si on la considère encore comme un écrivain scandaleux. \
-Ce sont ces souvenirs que ressucite #LO : c'est à la fois une autobiographie de #Z, un document sur la naissance de l'art moderne et un manifeste du naturalisme, mouvement littéraire qu'il a fondé et défendu.
+A la parution de roman, Émile #Z a alors 46 ans et il s'est imposé comme l'un des écrivains les plus célèbres de son temps. Les années de misère sont loin derrière lui, tout comme l'insuccès de ses premiers romans -- même si on la considère encore comme un écrivain scandaleux. \
+Ce sont ces souvenirs que ressuscite #LO : c'est à la fois une autobiographie de #Z, un document sur la naissance de l'art moderne et un manifeste du naturalisme, mouvement littéraire qu'il a fondé et défendu.
 
 === Un roman autobiographique
 
 Dès le collège à Aix-en-Provence, #Z se lie d'une profonde amitié avec Cézanne. Installés à Paris tous les deux, ils ne fréquentent que des peintres en lutte contre l'académisme et leur apporte leur soutien par le biais de chroniques, en particulier dans _L'Évènement_. Nombreux sont les peintres qui le remercient du soutien qu'il leur a apporté : Manet fait le portrait de l'écrivain, Fantin-Latour, Renoir et Bazille le représentent.
 
-Dans #LO, #Z prête ses traits à Pierre #Sd : on reconnaît dans sa description (p. 76) le portrait que Cézanne a fait de l'écrivain quelques années plus tôt. #Sd possède aussi les mêmes méthodes de travail que l'écrivain, à savoir régularité, discipline, persévérance ; le succès est lent à venir piur lui, comme pour #Z.
+Dans #LO, #Z prête ses traits à Pierre #Sd : on reconnaît dans sa description (p. 76) le portrait que Cézanne a fait de l'écrivain quelques années plus tôt. #Sd possède aussi les mêmes méthodes de travail que l'écrivain, à savoir régularité, discipline, persévérance ; le succès est lent à venir pour lui, comme pour #Z.
 
 De même, il donne à Claude #Lt la physionomie, le caractère timide et la peur des femmes de Cézanne. Les tableaux de Claude rappellent la peinture lourde et romantique du peintre dans les années 1860. Enfin, tout comme Claude dont un seul tableau est accepté par le jury -- par une #c(p: 420)[charité] -- Cézanne ne réussira à exposer au Salon qu'une seule toile, grâce à une faveur.
 
@@ -25,7 +25,7 @@ Notons que Claude #Lt apparaît déjà dans _Le Ventre de Paris_, le troisième 
 
 Dans sa première liste de romans des _Rougon-Macquart_, #Z avait prévu de consacrer un roman entier à l'art, qui retrace l'histoire de la peinture contemporaine. \ On retrouve en effet dans #LO le Salon des refusés, le salon indépendant chez Nadar (évoqué p. 377), les expositions impressionnistes qui suivront, l'illumination du Salon officiel par l'impressionnisme (p.441). En outre, le dernier dîner organisé par #Sd (p.497), illustrant la dislocation la bande d'amis, rappelle la rupture des impressionnistes.
 
-#Z maîtrise parfaitement son sujet : il n'a fréquenté à Paris presque que des peintres pendant dix ans. Il dispose donc d'une solide culture artistique, mais aussi d'une réelle appétence pour la peinture contemporaine car selon lui, le respect des normes importe peu au profit de la perception du peintre. Non seulement il comprend, mais il partage la volonté de l'avant-garde de rompre avec la tradition académique, de peindre des sujets tirés du monde contemporain.
+#Z maîtrise parfaitement son sujet : il n'a fréquenté à Paris presque que des peintres pendant dix ans. Il dispose donc d'une solide culture artistique, mais aussi d'une réelle appétence pour la peinture contemporaine car selon lui, le respect des normes importe peu au profit de la perception du peintre. Non seulement il comprend, mais il partage la volonté de l'avant-garde de rompre avec la tradition académique, de peindre des sujets tirés du monde contemporain. Il décide faire figurer dans son cycle un #c[tableau de la fièvre d'art de l'époque, de ce qu'on nomme la décadence et qui n'est rien d'autre qu'un produit de l'activité folle des esprits].
 
 === Un manifeste naturaliste
 
@@ -35,7 +35,7 @@ En affirmant dans #LO les principes d'un art nouveau, #Z ne pense pas seulement 
 En 1886, face au déclin du naturalisme dont de nombreux disciples comme Maupassant se tournent vers la littérature psychologique, #LO est un moyen de critiquer, non seulement l'académisme en peinture, mais aussi l'évolution, jugée rétrograde par #Z, de la littérature vers la délicatesse, le goût de la nuance : on pense à #c(p: 435)[l'audace gris perle] de Fagerolles, #c(p: 454)[joli ton gris] de Gagnière ou encore la joliesse vers laquelle se dirige le sculpteur Mahoudeau.
 
 En revanche, le roman affirme avec vigueur la supériorité d'un art caractérisé par la force et la vérité, incarnée par #Cl et #Sd : tous deux prônent une observation scientifique de la réalité et dénuée de toute forme d'idéalisme comme de toute portée moralisante. #Z estime que le succès de Maupassant est dû à l'adoucissement de la formule naturaliste et à leur envie de ne pas choquer le public ; de même, Fagerolles et dit à propos du tableau de #Cl :
-#cboe(213)[Ce qu'il faudrait pour que cetre peinture fît la conquête de tous, quelques tricheries peut-être, des atténuations, un arrangement du sujet, un adoucissement de facture.]
+#cboe(213)[Ce qu'il faudrait pour que cette peinture fît la conquête de tous, quelques tricheries peut-être, des atténuations, un arrangement du sujet, un adoucissement de facture.]
 
 Le premier impératif de cette formule naturaliste réside dans la reproduction, la plus exacte possible, de la réalité, même si, #Z l'avoue, une œuvre, si réaliste soit-elle, n'est qu'un écran forcément déformant. De plus, l'écriture elle-même vise l'objectivité et l'impersonnalité propre aux sciences, et chaque roman nécessite un méthodique travail de documentation au préalable ; en somme, le romancier naturaliste doit transposer l'art l'esprit de recherche et de méthode qui a fait progresser les sciences.
 

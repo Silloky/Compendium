@@ -1,3 +1,5 @@
+#import "../formats.typ": *
+
 == L'art en 1860
 #include "contexte_Oeuvre.typ"
 
@@ -6,3 +8,6 @@
 
 == Lecture linéaire
 #include "LL_Oeuvre.typ"
+
+== _L'Œuvre_ et les _Arcanes de la création_
+#include "cours_Oeuvre.typ"

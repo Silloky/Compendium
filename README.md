@@ -8,10 +8,6 @@ J'ai donc décidé de créer ce _compendium_, cette anthologie, ce recueil, ce c
 
 Je me suis concentré sur les définitions, les théorèmes, les propriétés les plus importantes, les preuves les plus belles, les exemples les plus parlants et les exercices qui m'ont été les plus utiles. C'est bien sûr très subjectif, mais peut-être que ça pourra quand même être utile à d'autres.
 
-## Architecture technique
-
-Le projet est réalisé à l'aide de Typst. Je cherchais un outil de typesetting plus agréable à apprendre que le $\LaTeX$ : même si je sais qu'il faudra bien que je l'apprenne à un moment, la prépa n'en est pas trop le moment à mon avis.
-
 ## PDF compilés
 
 Les PDF compilés se trouvent dans la branche `pdf`.
@@ -19,3 +15,8 @@ Voici les liens directs pour un accès rapide :
 - [Physique](https://raw.githubusercontent.com/Silloky/Compendium/refs/heads/pdf/Physique_Elias_Kirkwood.pdf)
 - [Chimie](https://raw.githubusercontent.com/Silloky/Compendium/refs/heads/pdf/Chimie_Elias_Kirkwood.pdf)
 - [SI](https://raw.githubusercontent.com/Silloky/Compendium/refs/heads/pdf/SI_Elias_Kirkwood.pdf)
+- [Lettres (Arcanes de la création)](https://raw.githubusercontent.com/Silloky/Compendium/refs/heads/pdf/Lettres_Elias_Kirkwood.pdf)
+
+## Architecture technique
+
+Le projet est réalisé à l'aide de Typst. Je cherchais un outil de typesetting plus agréable à apprendre que le $\LaTeX$ : même si je sais qu'il faudra bien que je l'apprenne à un moment, la prépa n'en est pas trop le moment à mon avis.

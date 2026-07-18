@@ -1,17 +1,19 @@
 // INITIALIZATION
-
+#set page(
+  paper: "a4",
+  margin: (x: 1cm, y: 1cm),
+  header: {
+    align(right, text(8pt, style: "italic")[E. Kirkwood --- Lettres 26-27])
+    counter(footnote).update(0)
+  }
+)
 #set text(
   font: "EB Garamond",
   size: 11pt,
   lang: "fr"
 )
 
-#set page(
-  paper: "a4",
-  margin: (x: 1cm, y: 1cm),
-  header: align(right, text(8pt, style: "italic")[E. Kirkwood - Lettres Spé]),
-)
-
+// FRONT PAGE
 #{
   set page(header: "")
 
@@ -90,7 +92,8 @@
 }
 
 #show heading.where(level: 3): it => text(size: 1.9em)[#it]
-#show heading.where(level: 4): it => text(size: 1.2em)[#it]
+#show heading.where(level: 4): it => text(size: 1.4em)[#it]
+#show heading.where(level: 5): it => text(size: 1.1em)[#it.body]
 
 
 // CONTENT

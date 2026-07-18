@@ -9,7 +9,7 @@
   pad(left: 1em)[
     #block(
       width: 100%,
-      stroke: (left: 1pt + luma(100)), // Subtle dark gray bar
+      stroke: (left: 0.75pt + luma(100)), // Subtle dark gray bar
       inset: (left: 0.9em, top: 0.5em, bottom: 0.5em, right: 0.5em),
       above: 1.5em,
       below: 1.5em,
