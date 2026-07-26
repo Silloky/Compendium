@@ -35,12 +35,24 @@
 #let So = [Socrate]
 #let Pl = [Platon]
 #let G = [Glaucon]
+
+
 #let LO = [_L'Œuvre_]
 #let Sd = [Sandoz]
 #let Lt = [Lantier]
 #let Cl = [Claude]
 #let Z = [Zola]
-
+#let Cr = [Christine]
+#let Vz = [Mme. Vanzade]
+#let Db = [Dubuche]
+#let Mg = [le père Malgras]
+#let Ch = [Chaîne]
+#let Jy = [Jory]
+#let Mh = [Mahoudeau]
+#let Fg = [Fagerolles]
+#let Ib = [Irma Bécot]
+#let Gn = [Gagnière]
+#let Bg = [Bongrand]
 
 #let ie = [_ie._]
 #let e = [[...]]
