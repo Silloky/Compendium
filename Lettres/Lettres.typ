@@ -95,6 +95,8 @@
 #show heading.where(level: 4): it => text(size: 1.4em)[#it]
 #show heading.where(level: 5): it => text(size: 1.1em)[#it.body]
 
+#set enum(indent: 1em)
+
 
 // CONTENT
 
