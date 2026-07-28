@@ -14,6 +14,10 @@
 
 #include "deuxieme_principe.typ"
 
+== Principe industriel
+
+#include "principe_indus.typ"
+
 == Machines thermiques
 
 #include "machines_thermiques.typ"
