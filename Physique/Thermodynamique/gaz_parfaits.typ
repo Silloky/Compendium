@@ -7,9 +7,7 @@ Les courbes isothermes sur le diagramme d'Amagat sont des lignes (_considérées
 \ De plus, à température et quantités de matière fixées $T$ et $n$, pour tous les gaz, on a la *loi de Mariotte* :
 $ P V stretch(->)_(P -> 0) R times n T "avec" R = #qty[8.314][J/K/mol] $
 
-#definition("Gaz parfait")[
-  Gaz théorique qui à toutes pressions et températures respecte la loi de Mariotte, #ie qui suppose aucune interaction entre les molécules qui le composent.
-]
+*Gaz parfait* : Gaz théorique qui à toutes pressions et températures respecte la loi de Mariotte, #ie qui suppose aucune interaction entre les molécules qui le composent.
 
 Pour un gaz réel, l'approximation est d'autant meilleure que $P/T$ est petit.
 

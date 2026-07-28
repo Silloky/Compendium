@@ -21,3 +21,7 @@
 == Machines thermiques
 
 #include "machines_thermiques.typ"
+
+== Transitions de phase
+
+#include "transitions_phase.typ"

@@ -77,7 +77,7 @@
   set align(left)
   pagebreak(weak: true)
   block(below: 2em, width: 100%)[
-    #v(3em)
+    #v(2em)
     #text(size: 2em, weight: "bold")[#it.body]
     #v(-1.2em)
     // The Grey Number Underneath

@@ -3,7 +3,6 @@
 On considère une machine monotherme qui échange un transfert thermiques $Q$ unique et du travail $W$. D'après l'inégalité de Clausius, on a $Q <= 0$ et $W >= 0$. La machine est donc réceptrice. \
 *Il n'existe pas de moteur cyclique monotherme.*
 
-//#align(center, )
 
 #import "@preview/wrap-it:0.1.1": wrap-content
 

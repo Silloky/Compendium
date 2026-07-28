@@ -87,7 +87,7 @@ Le principe industriel est utilisé dans le cas d'un flux continu dans un systè
   etape(label: "②", amont-actif: true,  niveau: 0.8cm,
         vanne-g-ouverte: true,  vanne-d-ouverte: false, mouvement: "descente"),
   etape(label: "③", niveau: 1.58cm),
-  etape(label: "④", niveau: 0.5cm, mouvement: "montée"),
+  etape(label: "④", niveau: 0.9cm, mouvement: "montée"),
   etape(label: "⑤", aval-actif: true, niveau: 0.4cm,
         vanne-g-ouverte: false, vanne-d-ouverte: true),
   etape(label: "⑥", aval-actif: true, niveau: 0cm),
