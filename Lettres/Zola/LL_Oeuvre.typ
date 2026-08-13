@@ -10,7 +10,7 @@ Le lendemain matin, sous #c(p: 55)[la large nappe de soleil [qui] tombait de la 
 
 A son réveil, elle refuse tout d'abord d'être dessinée, nue. Puis voyant que #Cl #c(p: 60)[ne lui jetait plus que ces clairs regards du peintre, pour qui la femme a disparu, et qui ne voit que le modèle], elle accepte de se découvrir. \ Ils échangent leurs prénoms, et #Cr explique son aventure : originaire de Clermont-Ferrand et orpheline d'un père militaire, une sœur de son couvent lui trouva une place de liseuse pour une veuve âgée, #Vz. Le récit du voyage, plein de péripéties rocambolesques, étonne #Cl : #c(p:66)[Il s'émerveillait de l'invraisemblance de la vérité, souvent.]#footnote[Cette réflexion -- esthétique dans la tête du peintre -- à propos de l'invraisemblance reviendra plus tard avec les arbres bleus.]. \ Enfin, #Cr quitte l'atelier, #c(p: 72)[emportant le regret inconscient des choses inconnues et terribles qui n'étaient pas arrivées], dans leur excès de pudeur.
 
-=== Chapitre II -- Un incipit décalé
+=== Chapitre II -- Un incipit tardif
 
 Vers midi arrive un ami d'enfance de #Cl, Pierre #Sd, qui s'approche pour observer le tableau sur lequel travaille le peintre (_Plein air_), qui y a inséré le très récent portrait de #Cr. La toile, allusion au _Déjeuner sur l'herbe_ de Manet, impressionne #Sd et l'éblouit : #c(p: 77)[Cette ébauche, jetée d'un coup, avait une violence superbe, une ardente vie de couleurs.]
 

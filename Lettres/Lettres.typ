@@ -37,6 +37,7 @@
 #let parts = (
   "Platon/Platon.typ": [_Ion_ #v(-2.5cm)#text(size: 0.5em)[_La République_ (livre X)]],
   "Zola/Zola.typ": [_L'Œuvre_],
+  "Woolf/Woolf.typ": [_Un Lieu à soi_]
 )
 
 

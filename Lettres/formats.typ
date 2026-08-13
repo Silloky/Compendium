@@ -31,6 +31,7 @@
 #let cbion(page, citation) = cb("Ion", "Platon", page, citation)
 #let cbrep(page, citation) = cb("La République", "Platon", page, citation)
 #let cboe(page, citation) = cb("L'Œuvre", "E. Zola", "p. "+str(page), citation)
+#let cblas(page, citation) = cb("Un lieu à soi", "V. Woolf", "p. "+str(page), citation)
 
 #let So = [Socrate]
 #let Pl = [Platon]
@@ -53,6 +54,10 @@
 #let Ib = [Irma Bécot]
 #let Gn = [Gagnière]
 #let Bg = [Bongrand]
+
+#let Las = [_Un Lieu à soi_]
+#let Ox = [Oxbridge]
+#let Fh = [Fernham]
 
 #let ie = [_ie._]
 #let e = [[...]]
